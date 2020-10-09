@@ -30,7 +30,8 @@ sub_types = {
  'Secondary Schools (generally for children ages 10 to 18)'
 }
 ```
-###  `C1_Flag` - all nan for now, since all the `target_geog_level` for china is nan
+###  `C1_Flag` 
+
 
 ### `C2_Workplace closing`
 
@@ -58,5 +59,3 @@ sub_types = {
  'Retail Businesses'
 }
 ```
-
-###  `C1_Flag` - all nan for now, since all the `target_geog_level` for china is nan
