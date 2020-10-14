@@ -1,1 +1,0 @@
-The data and paper in this directory is from [here](https://www.coronanet-project.org/index.html)

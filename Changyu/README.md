@@ -6,9 +6,9 @@
 
 -----
 
-## C
+# C
 
-### `C1_School closing`
+## `C1_School closing`
 
 ```python
 if df_corona_net_china.type != "Closure and Regulation of Schools":
@@ -30,10 +30,10 @@ sub_types = {
  'Secondary Schools (generally for children ages 10 to 18)'
 }
 ```
-###  `C1_Flag` 
+##  `C1_Flag` 
 
 
-### `C2_Workplace closing`
+## `C2_Workplace closing`
 
 ```python
 if df_corona_net_china.type != "Restriction and Regulation of Businesses":
@@ -59,3 +59,5 @@ sub_types = {
  'Retail Businesses'
 }
 ```
+
+## `C3_Cancel public events` 
